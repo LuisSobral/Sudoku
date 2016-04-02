@@ -1,0 +1,6 @@
+﻿  Jogo.cpp
+c:\users\luisfelipe\documents\mega\github\sudoku\sudoku\jogo.cpp(17): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\luisfelipe\documents\mega\github\sudoku\sudoku\jogo.cpp(17): note: placeholders and their parameters expect 2 variadic arguments, but 0 were provided
+  c:\users\luisfelipe\documents\mega\github\sudoku\sudoku\jogo.cpp(17): note: the missing variadic argument 1 is required by format string '%[^\n]'
+  c:\users\luisfelipe\documents\mega\github\sudoku\sudoku\jogo.cpp(17): note: this argument is used by a conversion specifier
+  Sudoku.vcxproj -> C:\Users\LuisFelipe\Documents\MEGA\GitHub\Sudoku\Debug\Sudoku.exe
